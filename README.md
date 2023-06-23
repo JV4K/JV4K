@@ -1,4 +1,7 @@
 ### Hi there 👋
+I study Mechatronics/Robotics at Tomsk Polytechnic University.
+
+- 🔭 I’m currently working on mecanum wheeled robot
 
 <!--
 **JV4K/JV4K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
