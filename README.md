@@ -1,8 +1,9 @@
 ### Hi there 👋
-I study Mechatronics/Robotics at Tomsk Polytechnic University.
+I study Mechatronics/Robotics at Tomsk Polytechnic University and absolutely love it.
 
 - 🔭 I’m currently working on mecanum wheeled robot
-
+  Specifically on the lower level (motor control with STM32)
+- 🌱 I’m currently learning control theory and C-programming of MCUs
 <!--
 **JV4K/JV4K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
