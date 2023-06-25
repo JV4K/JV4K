@@ -1,6 +1,5 @@
 ### Hi there 👋
-I study Mechatronics/Robotics at Tomsk Polytechnic University and absolutely love it.
-
+I study Mechatronics/Robotics at Tomsk Polytechnic University.
 - 🔭 I’m currently working on mecanum wheeled robot. Specifically on the lower level (motor control with STM32)
 - 🌱 I’m currently learning control theory and C-programming of MCUs
 
