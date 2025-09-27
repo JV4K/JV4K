@@ -1,7 +1,7 @@
 ### Hi there 👋
-I study Mechatronics/Robotics at Tomsk Polytechnic University.
-- 🔭 I’m currently working on mecanum wheeled robot. Specifically on the lower level (motor control with STM32)
-- 🌱 I’m currently learning control theory and C-programming of MCUs
+I am taking my masters degree on Mechatronics/Robotics at Tomsk Polytechnic University.
+- 🔭 I’m currently working on mecanum wheeled robot. Mcu firmware, SoC linux software w ROS2 
+- 🌱 I’m currently learning RTOS, ROS2 and MicroROS
 
 I've been interested in custom keyboars for a couple of years, so some MK projects are highly possible.
 <!--
